@@ -47,6 +47,9 @@ def on_click(row, col, board, buttons, winner_label):
             if winner:
                 winner_label.config(text=f"Computer {winner} wins!")
 
+        else:
+            winner_label.config(text="Draw!")
+
 
 def create_board():
     board_window = tk.Tk()
