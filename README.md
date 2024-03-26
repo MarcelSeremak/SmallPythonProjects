@@ -22,6 +22,10 @@ Test your math skills with this Speed Math Quiz application. Answer a series of 
 
 Convert text into Morse code using this application. Simply input your text, and it will be translated into Morse code.
 
+### TicTacToe Game
+
+Simple TicTacToe game played with computer which uses randomly picked places on the board.
+
 ---
 
 ## Author
